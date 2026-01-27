@@ -43,4 +43,15 @@ for obj in resultObj["results"]:
     print(obj);
 
 
+"""
+TO RUN COWSAY IN UBUNTU 25.10
+sudo apt install python3-venv -y   # one time only
+python3 -m venv venv
+source venv/bin/activate
+pip install cowsay
+python module.py LoneWolf
+"""
+
+
+
 
